@@ -27,3 +27,9 @@ use .2mm for initial height thickness and .12 for layer height after initial lay
 <img width="959" height="527" alt="Screenshot 2026-06-17 154224" src="https://github.com/user-attachments/assets/58679311-8517-41ef-a112-239c4a01e44a" />
 
 <img width="996" height="510" alt="Screenshot 2026-06-17 154447" src="https://github.com/user-attachments/assets/91bcb63a-c4fc-4559-86d6-80a4ed41e3e1" />
+
+
+Credits:
+
+Macondo Hackclub 
+Fusion 360
