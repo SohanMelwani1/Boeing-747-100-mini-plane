@@ -31,5 +31,5 @@ use .2mm for initial height thickness and .12 for layer height after initial lay
 
 Credits:
 
-Macondo Hackclub 
+Macondo Hackclub,
 Fusion 360
