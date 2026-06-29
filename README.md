@@ -32,7 +32,9 @@ The final print should look like this
 <img width="867" height="500" alt="image" src="https://github.com/user-attachments/assets/d7ef876d-7429-4038-8c76-f35ba6996736" />
 
 
+Demo: https://www.youtube.com/shorts/50o9eUPUkd8
 
+Printable: https://www.printables.com/model/1768011-boeing-747-100mini-plane
 Credits:
 
 Macondo Hackclub,
