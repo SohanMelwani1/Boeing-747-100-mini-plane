@@ -35,6 +35,9 @@ The final print should look like this
 Demo: https://www.youtube.com/shorts/50o9eUPUkd8
 
 Printable: https://www.printables.com/model/1768011-boeing-747-100mini-plane
+
+BOM: <img width="438" height="192" alt="image" src="https://github.com/user-attachments/assets/b2fd8b22-c72f-4af2-a595-8beb81e21f33" />
+
 Credits:
 
 Macondo Hackclub,
